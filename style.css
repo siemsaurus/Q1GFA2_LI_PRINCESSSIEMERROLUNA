@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Lobster&family=Young+Serif&display=swap');
+*{
+    padding:0px;
+    margin:0px;
+}
+div{
+    padding: 5px;
+    margin: 0px;
+}
+.menubar{
+    height: 5vh;
+    background-color: rgb(182, 10, 10);
+    border-radius: 5px;
+    border: 1px solid color(srgb 0 ,0 ,0);
+    font-family:  'Lobster', cursive;
+}
+.product{
+    display: inline-block;
+    float: left;
+}
+.links{
+    display: inline-block;
+    float: right;
+    border-radius: 5px;
+    padding-right: 5px;
+    margin-right: 10px;
+}
+#me{
+    background-color: rgb(224, 33, 33);
+}
+#us{
+    background-color: rgb(224, 33, 33);
+}
+#more{
+    background-color: rgb(224, 33, 33);
+}
+#name{
+    background-color: rgb(224, 33, 33);
+}
