@@ -68,15 +68,16 @@ body{
     float: left;
     width: 150px;
     height: 350px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-top: 20px;
+    margin-right: 10px;
     background-color: rgb(182, 10, 10);
     border-radius: 10px;
 }
 .box2{
     display: inline-block;
     float: center;
-    width: 1055px;
+    width: 1065px;
     height: 500px;
     margin-left: 10px;
     margin-right: 5px;
@@ -151,8 +152,8 @@ body{
 .box2 p{
     color: antiquewhite;
     margin-top: 120px;
-    margin-left: 150px;
-    margin-right: 10px;
+    margin-left: 100px;
+    margin-right: 20px;
 }
 #iraq{
     width: 10px;
